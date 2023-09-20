@@ -1,18 +1,18 @@
 # <center><span style="color:#FFD8BFD8">**윤준성(Yoon Jun Seong)**</span></center>
 ##  <center><span style="color:#FFFFB6C1">자유로운 연예인 **ESFP**</span></center>
-
+[<center><img width='25' height='25' src='https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png'>](https://www.instagram.com/heavyrain_on/?hl=ko)
+---
 
 ## Introduce
 - Birth : 1999. 2.15
 - Major : Economics
--
 
-## Hobby
-- 
+## About
+- Hobby : 볼링치는 것을 좋아해요:)
+          컴퓨터 게임도 좋아하고 IT제품에 관심이 많아서 유튜브 찾아보는 것을 즐겨합니다.
 
+- Personality : 둥글둥글한 성격으로 사람들과 어울리는 것을 좋아합니다. 
 
-
-
-
-
-[<center><img width='25' height='25' src='https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png'>](https://www.instagram.com/heavyrain_on/?hl=ko)
+## Goal
+- iOS 개발자로 성공하기
+- IT 기업 설립
