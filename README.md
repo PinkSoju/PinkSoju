@@ -2,6 +2,14 @@
 ##  <center><span style="color:#FFFFB6C1">자유로운 연예인 **ESFP**</span></center>
 
 
+## Introduce
+- Birth : 1999. 2.15
+- Major : Economics
+-
+
+## Hobby
+- 
+
 
 
 
