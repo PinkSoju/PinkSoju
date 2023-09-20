@@ -3,7 +3,7 @@
 [<center><img width='25' height='25' src='https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png'>](https://www.instagram.com/heavyrain_on/?hl=ko)
 ---
 
-## Introduce
+## <span style="color:#FF00FFFF">Introduce</span>
 - Birth : 1999. 2.15
 - Major : Economics
 
@@ -13,6 +13,11 @@
 
 - Personality : 둥글둥글한 성격으로 사람들과 어울리는 것을 좋아합니다. 
 
+- 비전공자로 코린이지만 차근차근 노력하고 있습니다!
+
 ## Goal
 - iOS 개발자로 성공하기
 - IT 기업 설립
+
+
+<a href="#" class="btn--success">Top</a>
