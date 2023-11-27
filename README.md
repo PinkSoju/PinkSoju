@@ -4,22 +4,4 @@
 ---
 
 
-## <span style="color:#FF00FFFF">Introduce</span>
-- Birth : 1999. 2.15
-- Major : Economics
-
-## About
-- Hobby : 볼링치는 것을 좋아해요:)
-          컴퓨터 게임도 좋아하고 IT제품에 관심이 많아서 유튜브 찾아보는 것을 즐겨합니다.
-
-- Personality : 둥글둥글한 성격으로 사람들과 어울리는 것을 좋아합니다. 
-
-- 비전공자로 코린이지만 차근차근 노력하고 있습니다!
-
-- 대학교 때 R을 배우면서 코딩에 관심을 가지게 되었습니다.
-
-## Goal
-- iOS 개발자로 성공하기
-
-
 <a href="#" class="btn--success">Top</a>
